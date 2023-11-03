@@ -33,7 +33,7 @@ This Java project uses Selenium WebDriver and TestNG to automate actions on YouT
     mvn test
 
 ## Test Execution
-- The tests automate the following steps:
+The tests automate the following steps:
 - Launch the Chrome browser.
 - Navigate to the YouTube homepage.
 - Search for a video based on the provided search term.
